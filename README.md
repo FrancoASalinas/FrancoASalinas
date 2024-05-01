@@ -10,7 +10,7 @@
 - NextJS
 - Git
 - Github
-- -NodeJS
+- NodeJS
 - Express
 - PostgreSQL
 
